@@ -1,9 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mkongiv/mkongiv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Martin Kong
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Brief Bio
+I am an Assistant Professor in the School of Computer Science at the University of Oklahoma (OU). Before joining this amazing department I spent two years as an Assistant Scientist in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at The Ohio State University, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
 
+## Working with me
+
+I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DEH 230. If sending me an email please include:
+
+- Name
+- Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture
+- Past experience: research, academic, industry
+- Are you currently at OU or are you applying?
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,27 +20,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mkongiv/mkongiv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
