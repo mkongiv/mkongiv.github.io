@@ -24,7 +24,7 @@ My research leverages programming languages and compilers as vehicles to achieve
 
 ## Service
 I've recently been or am currently involved in the following activities:
-```markdown
+```
 - International Conference on Parallel Processing (ICPP'20): Program Committee
 - ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20): Artifact Evaluation Co-Chair
 - Proposal Review Panelist for the National Science Foundation, USA
@@ -34,7 +34,5 @@ I've recently been or am currently involved in the following activities:
 - Proposal Review Panelist for the Department of Energy, USA
 - International Workshop on OpenMP (IWOMP'18): Program Committee
 - International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18): Workshop Co-Chair
-
-[Link](url) and ![Image](src)
 ```
 
