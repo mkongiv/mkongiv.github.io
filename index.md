@@ -13,15 +13,27 @@ I am looking for smart, motivated, independent and hard-working students to join
 - Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture
 - Past experience: research, academic, industry
 - Are you currently at OU or are you applying?
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interests
+My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
+- High-performance computing
+- Domain-specific computing
+- Polyhedral compilation
+- Automatic parallelization for data-flow and task-parallel run-times
+
+## Service
+I've recently been or am currently involved in the following activities:
 ```markdown
-Syntax highlighted code block
-
-
-
+- International Conference on Parallel Processing (ICPP'20): Program Committee
+- ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20): Artifact Evaluation Co-Chair
+- Proposal Review Panelist for the National Science Foundation, USA
+- International Workshop on Languages and Compilers for Parallel Computing (LCPC'19): Program Committee
+- International Conference on Parallel Architectures and Compilation Techniques (PACT'19): Artifact Evaluation Committee
+- Workshop on Optimization, Modeling, Analysis and Space Exploration (Co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair
+- Proposal Review Panelist for the Department of Energy, USA
+- International Workshop on OpenMP (IWOMP'18): Program Committee
+- International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18): Workshop Co-Chair
 
 [Link](url) and ![Image](src)
 ```
