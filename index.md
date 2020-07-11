@@ -1,4 +1,4 @@
-![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)
+![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)<br>
 [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [LinkedIn](https://www.linkedin.com/in/martin-kong-hpc) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
 
 ## Brief Bio
