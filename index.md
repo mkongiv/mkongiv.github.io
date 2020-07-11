@@ -13,7 +13,7 @@ My research leverages programming languages and compilers as vehicles to achieve
 
 ## Publications
 
-This is a sub-selection of my research articles. You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile.
+This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile.
 
 [*Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers.*](https://dl.acm.org/doi/10.1145/3368826.3377916)
 Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-Noël Pouchet, Rezaul Chowdhury, Robert Harrison in
@@ -23,7 +23,7 @@ February, 2020.
 [*Model-driven Transformations for Multi-and Many-core CPUs.*](https://dl.acm.org/doi/10.1145/3314221.3314653)
 Martin Kong, Louis-Noel Pouchet in
 Programming Languages Design and Implementation (PLDI),
-June, 2019
+June, 2019.
 
 [*A Performance Vocabulary for Affine Loop Transformations.*](https://arxiv.org/pdf/1811.06043.pdf)
 Martin Kong, Louis-Noel Pouchet in
@@ -33,7 +33,7 @@ November, 2018.
 [*Efficient cache simulation for affine computations.*](https://link.springer.com/chapter/10.1007/978-3-030-35225-7_6)
 Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-Noel Pouchet, P Sadayappan in
 International Workshop on Languages and Compilers for Parallel Computing (LCPC),
-October, 2017
+October, 2017.
 
 [*PIPES: a Language and Compiler for Task-based Programming on Distributed-memory Clusters.*](https://dl.acm.org/doi/10.5555/3014904.3014957)
 Martin Kong, Louis-Noel Pouchet, P. Sadayappan, Vivek Sarkar in
@@ -81,6 +81,7 @@ I am looking for smart, motivated, independent and hard-working students to join
 - Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture.
 - Past experience: research, academic, industry.
 - Are you currently at OU or are you applying?
+- More importantly, please describe **why** do you want to work with me? Reading some of my papers or briefly describing an area you are interested in will help.
 
 ## Contact Information
 - Current Position: Assistant Professor
