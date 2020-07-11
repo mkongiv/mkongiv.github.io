@@ -13,7 +13,7 @@ My research leverages programming languages and compilers as vehicles to achieve
 
 ## Publications
 
-This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile.
+This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
 [*Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers.*](https://dl.acm.org/doi/10.1145/3368826.3377916)
 Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-Noël Pouchet, Rezaul Chowdhury, Robert Harrison in
@@ -24,7 +24,13 @@ February, 2020.
 Martin Kong, Louis-Noel Pouchet in
 Programming Languages Design and Implementation (PLDI),
 June, 2019.
-<summary> Summary test. </summary>
+<details>
+<summary> Summary</summary>
+  
+The core contribution of this paper (one of my favorites!) is the design and implementation of a *performance lexicon* as an extensible set of Integer Linear
+Program (ILP) cost functions, each of which attempts to maximize and extract a specific property on an optimized code. We define several cost functions, some 
+heavily inspired in previous work, and others quite new. The motivation for having such lexicon is to be able to combine and reorder the ILP objectives based on the underlying computational and structured patterns found in the code.
+</details>
 
 [*A Performance Vocabulary for Affine Loop Transformations.*](https://arxiv.org/pdf/1811.06043.pdf)
 Martin Kong, Louis-Noel Pouchet in
