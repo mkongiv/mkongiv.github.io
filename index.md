@@ -56,12 +56,21 @@ January, 2015.
 Kevin Stock, Martin Kong, Tobias Grosser, Louis-Noel Pouchet, Fabrice Rastello, J. Ramanujam, P. Sadayappan in
 Programming Languages Design and Implementation (PLDI),
 June, 2014.
+<details>
+<summary> Summary</summary>
+  
+This paper had deep effects in the optimization of iterative stencil computations. I was not the first author, that was Kevin, but I did the implementation in PoCC/PolyOpt for the ROSE compiler framework. The main contribution was the observation that register pressure was a significant performance bottleneck in iterative stencil computations. The solution was pretty clever. We recasted the stencil by formulating it as a sum of products, leveraging associative reordering. Then, leveraging these properties allowed us to use fixed loop-shifting (a.k.a *retiming*) to aling the loads and stores. This work was followed by a number of papers in Saday's and other research groups, including addressing the same issue in GPUs.
+</details>
 
 [*When Polyhedral Transformations meet SIMD Code Generation.*](https://dl.acm.org/doi/10.1145/2491956.2462187)
 Martin Kong, Richard Veras, Louis-Noel Pouchet, Franz Franchetti, P. Sadayappan in 
 Programming Languages Design and Implementation (PLDI),
 June, 2013.
-
+<details>
+<summary> Summary</summary>
+  
+This is my very first paper, and probably my second favorite one, but a close call. The main contribution is a contract that establishes the roles and responsibilities between two powerful optimizing compilers, with the goal of synthesizing highly optimized vectorized codelet. The first compiler finds and applies complex loop transformations to maximize and expose specific properties (e.g. permutability of loops). Later, the back-end compiler (Spiral), leverages the extracted and guaranteed properties to perform aggressive optimizations in straight-line code. The end result is a nice framework that achieves several commonly opposing goals: coarse-grained outer parallelism, locality and fine-grained (inner) vector-SIMD parallelism.
+</details>
 
 ## Service
 
