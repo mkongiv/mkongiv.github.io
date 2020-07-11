@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
 
-### Martin Kong
+
 
 ## Brief Bio
-I am an Assistant Professor in the School of Computer Science at the University of Oklahoma (OU). Before joining this amazing department I spent two years as an Assistant Scientist in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at The Ohio State University, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
+I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at The Ohio State University, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
 
 ## Research Interests
 My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
@@ -15,11 +14,12 @@ My research leverages programming languages and compilers as vehicles to achieve
 
 ## Publications
 
+This is a sub-selection of my research articles. You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar profile](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en).
+
 [*Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers.*](https://dl.acm.org/doi/10.1145/3368826.3377916)
 Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-Noël Pouchet, Rezaul Chowdhury, Robert Harrison in
 Code Generation and Optimization (CGO),
 February, 2020.
-
 
 [*Model-driven Transformations for Multi-and Many-core CPUs.*](https://dl.acm.org/doi/10.1145/3314221.3314653)
 Martin Kong, Louis-Noel Pouchet in
@@ -58,6 +58,7 @@ June, 2013.
 
 
 ## Service
+
 I've recently been or am currently involved in the following activities:
 
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees) Program Committee.
