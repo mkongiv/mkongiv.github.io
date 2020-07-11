@@ -1,4 +1,4 @@
-![me](https://www.ou.edu/coe/cshttps://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)
+![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)
 
 ## Brief Bio
 I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at The Ohio State University, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
@@ -13,7 +13,7 @@ My research leverages programming languages and compilers as vehicles to achieve
 
 ## Publications
 
-This is a sub-selection of my research articles. You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar profile](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en).
+This is a sub-selection of my research articles. You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile.
 
 [*Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers.*](https://dl.acm.org/doi/10.1145/3368826.3377916)
 Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-Noël Pouchet, Rezaul Chowdhury, Robert Harrison in
