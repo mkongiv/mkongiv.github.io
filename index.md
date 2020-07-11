@@ -5,15 +5,6 @@
 ## Brief Bio
 I am an Assistant Professor in the School of Computer Science at the University of Oklahoma (OU). Before joining this amazing department I spent two years as an Assistant Scientist in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at The Ohio State University, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
 
-## Working with me
-
-I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DEH 230. If sending me an email please include:
-
-- Name
-- Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture
-- Past experience: research, academic, industry
-- Are you currently at OU or are you applying?
-
 ## Research Interests
 My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
@@ -30,7 +21,7 @@ Code Generation and Optimization (CGO),
 February, 2020.
 
 
-[*Model-driven transformations for multi-and many-core CPUs.*](https://dl.acm.org/doi/10.1145/3314221.3314653)
+[*Model-driven Transformations for Multi-and Many-core CPUs.*](https://dl.acm.org/doi/10.1145/3314221.3314653)
 Martin Kong, Louis-Noel Pouchet in
 Programming Languages Design and Implementation (PLDI),
 June, 2019
@@ -49,8 +40,7 @@ October, 2017
 Martin Kong, Louis-Noel Pouchet, P. Sadayappan, Vivek Sarkar in
 The International Conference for High Performance Computing, Networking, Storage and Analysis (SC),
 November, 2016.
-```
-```
+
 [*Compiler/runtime Framework for Dynamic Dataflow Parallelization of Tiled Programs.*](https://dl.acm.org/doi/10.1145/2687652)
 Martin Kong, Antoniu Pop, Louis-Noel Pouchet, R. Govindarajan, Albert Cohen, P. Sadayappan in
 ACM Transactions on Architecture and Code Optimization (TACO),
@@ -69,17 +59,28 @@ June, 2013.
 
 ## Service
 I've recently been or am currently involved in the following activities:
-```
-- International Conference on Parallel Processing (ICPP'20): Program Committee
-- ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20): Artifact Evaluation Co-Chair
-- Proposal Review Panelist for the National Science Foundation, USA
-- International Workshop on Languages and Compilers for Parallel Computing (LCPC'19): Program Committee
-- International Conference on Parallel Architectures and Compilation Techniques (PACT'19): Artifact Evaluation Committee
-- Workshop on Optimization, Modeling, Analysis and Space Exploration (Co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair
-- Proposal Review Panelist for the Department of Energy, USA
-- International Workshop on OpenMP (IWOMP'18): Program Committee
-- International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18): Workshop Co-Chair
-```
+
+- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees) Program Committee.
+- [2020 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
+- [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/) Program Committee.
+- [ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20)](https://conf.researchr.org/committee/CC-2020/CC-2020-research-artifacts-artifact-evaluation-committee) Artifact Evaluation Co-Chair.
+- Proposal Review Panelist for the National Science Foundation, USA.
+- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'19)](https://lcpc19.cc.gatech.edu/committee/): Program Committee.
+- International Conference on Parallel Architectures and Compilation Techniques (PACT'19): Artifact Evaluation Committee.
+- [Workshop on Optimization, Modeling, Analysis and Space Exploration (OMASE)](https://cgo.org/cgo2019/acceptedWorkshopTutorial/) (co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair.
+- Proposal Review Panelist for the Department of Energy, USA.
+- [International Workshop on OpenMP (IWOMP'18)](https://iwomp2018.bsc.es/organization) Program Committee.
+- [International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/) Workshop Co-Chair.
+
+
+## Working with me
+
+I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DEH 230. If sending me an email please include:
+
+- Name
+- Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture.
+- Past experience: research, academic, industry.
+- Are you currently at OU or are you applying?
 
 ## Contact Information
 - Current Position: Assistant Professor
