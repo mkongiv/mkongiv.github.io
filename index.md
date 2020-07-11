@@ -89,3 +89,5 @@ I am looking for smart, motivated, independent and hard-working students to join
 - E-Mail: mkong at ou.edu
 - Office: DEH 230
 - Phone: (405) 325-2978
+
+NOTE: This site is likely a bit more up-to-date than [my official OU homepage](https://www.cs.ou.edu/~mkong/). 
