@@ -24,8 +24,8 @@ My research leverages programming languages and compilers as vehicles to achieve
 
 ## Publications
 ```
-Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers 
-  Mohammad Mahdi Javanmard; Zafar Ahmad; Martin Kong; Louis-Noël Pouchet; Rezaul Chowdhury; Robert Harrison
+[Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers](https://dl.acm.org/doi/10.1145/3368826.3377916)
+Mohammad Mahdi Javanmard; Zafar Ahmad; Martin Kong; Louis-Noël Pouchet; Rezaul Chowdhury; Robert Harrison
 Code Generation and Optimization (CGO)
 February, 2020
 ```
