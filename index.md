@@ -30,43 +30,43 @@ Code Generation and Optimization (CGO)
 February, 2020
 ```
 ```
-[Model-driven transformations for multi-and many-core CPUs](https://dl.acm.org/doi/10.1145/3314221.3314653)
+[Model-driven transformations for multi-and many-core CPUs][https://dl.acm.org/doi/10.1145/3314221.3314653]
 Martin Kong, Louis-Noel Pouchet
 Programming Languages Design and Implementation (PLDI)
 June, 2019
 ```
 ```
-[A Performance Vocabulary for Affine Loop Transformations](https://arxiv.org/pdf/1811.06043.pdf)
+[A Performance Vocabulary for Affine Loop Transformations][https://arxiv.org/pdf/1811.06043.pdf]
 Martin Kong, Louis-Noel Pouchet
 ArXiv
 November, 2018
 ```
 ```
-[Efficient cache simulation for affine computations](https://link.springer.com/chapter/10.1007/978-3-030-35225-7_6)
+[Efficient cache simulation for affine computations][https://link.springer.com/chapter/10.1007/978-3-030-35225-7_6]
 Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-Noel Pouchet, P Sadayappan
 International Workshop on Languages and Compilers for Parallel Computing (LCPC)
 October, 2017
 ```
 ```
-[PIPES: a language and compiler for task-based programming on distributed-memory clusters](https://dl.acm.org/doi/10.5555/3014904.3014957)
+[PIPES: a language and compiler for task-based programming on distributed-memory clusters][https://dl.acm.org/doi/10.5555/3014904.3014957]
 Martin Kong, Louis-Noel Pouchet, P. Sadayappan, Vivek Sarkar
 The International Conference for High Performance Computing, Networking, Storage and Analysis (SC)
 November, 2016
 ```
 ```
-[Compiler/runtime framework for dynamic dataflow parallelization of tiled programs](https://dl.acm.org/doi/10.1145/2687652)
+[Compiler/runtime framework for dynamic dataflow parallelization of tiled programs][https://dl.acm.org/doi/10.1145/2687652]
 Martin Kong, Antoniu Pop, Louis-Noel Pouchet, R. Govindarajan, Albert Cohen, P. Sadayappan
 ACM Transactions on Architecture and Code Optimization (TACO)
 January, 2015
 ```
 ```
-[A framework for enhancing data reuse via associative reordering](https://dl.acm.org/doi/10.1145/2594291.2594342)
+[A framework for enhancing data reuse via associative reordering][https://dl.acm.org/doi/10.1145/2594291.2594342]
 Kevin Stock, Martin Kong, Tobias Grosser, Louis-Noel Pouchet, Fabrice Rastello, J. Ramanujam, P. Sadayappan
 Programming Languages Design and Implementation (PLDI)
 June, 2014
 ```
 ```
-[When polyhedral transformations meet SIMD code generation](https://dl.acm.org/doi/10.1145/2491956.2462187)
+[When polyhedral transformations meet SIMD code generation][https://dl.acm.org/doi/10.1145/2491956.2462187]
 Martin Kong, Richard Veras, Louis-Noel Pouchet, Franz Franchetti, P. Sadayappan
 Programming Languages Design and Implementation (PLDI)
 June, 2013
