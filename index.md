@@ -11,6 +11,7 @@ My research leverages programming languages and compilers as vehicles to achieve
 - Polyhedral compilation
 - Automatic parallelization for data-flow and task-parallel run-times
 
+<br>
 ## Publications
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
@@ -102,20 +103,20 @@ This is my very first paper, and probably my second favorite one, but a close ca
 
 I've recently been or am currently involved in the following activities:
 
-- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees) Program Committee.
+- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member.
 - [2020 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
-- [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/) Program Committee.
-- [ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20)](https://conf.researchr.org/committee/CC-2020/CC-2020-research-artifacts-artifact-evaluation-committee) Artifact Evaluation Co-Chair.
+- [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/): Program Committee (PC) member.
+- [ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20)](https://conf.researchr.org/committee/CC-2020/CC-2020-research-artifacts-artifact-evaluation-committee): Artifact Evaluation Co-Chair.
 - Proposal Review Panelist for the National Science Foundation, USA.
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'19)](https://lcpc19.cc.gatech.edu/committee/): Program Committee.
 - International Conference on Parallel Architectures and Compilation Techniques (PACT'19): Artifact Evaluation Committee.
 - [Workshop on Optimization, Modeling, Analysis and Space Exploration (OMASE)](https://cgo.org/cgo2019/acceptedWorkshopTutorial/) (co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair.
 - Proposal Review Panelist for the Department of Energy, USA.
 - [International Workshop on OpenMP (IWOMP'18)](https://iwomp2018.bsc.es/organization) Program Committee.
-- [Programming Models and Algorithms Workshop (PMAW)](https://kongm.github.io), co-located with [IPDPS'18](http://www.ipdps.org/ipdps2018/2018_advance_program.html) Workshop Chair.
-- [International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/) Workshop Co-Chair.
+- [Programming Models and Algorithms Workshop (PMAW)](https://kongm.github.io), co-located with [IPDPS'18](http://www.ipdps.org/ipdps2018/2018_advance_program.html): Workshop Chair.
+- [International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/): Workshop Co-Chair.
 
-
+<br>
 ## Working with me
 
 I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DEH 230. If sending me an email please include:
@@ -126,6 +127,7 @@ I am looking for smart, motivated, independent and hard-working students to join
 - Are you currently at OU or are you applying?
 - More importantly, please describe **why** do you want to work with me? Reading some of my papers or briefly describing an area you are interested in will help.
 
+<br>
 ## Contact Information
 - Current Position: Assistant Professor
 - Affiliation: University of Oklahoma, School of Computer Science
