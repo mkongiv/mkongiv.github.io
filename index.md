@@ -46,11 +46,21 @@ October, 2017.
 Martin Kong, Louis-Noel Pouchet, P. Sadayappan, Vivek Sarkar in
 The International Conference for High Performance Computing, Networking, Storage and Analysis (SC),
 November, 2016.
+<details>
+<summary> Summary</summary>
+  
+I started this work towards the end of my PhD, and finished it during my post-doc at Rice University. It proposes a polyhedral data-flow graph language and compiler that permits to define graph computations. The compiler applies loop transformations such as tiling and fusion to coarse and optimize the graph. In addition, it also extracts the necessary information from the input graph to automatically produce Intel CnC tuners, runtime calls that heavily influence the program's performance.
+</details>
 
 [*Compiler/runtime Framework for Dynamic Dataflow Parallelization of Tiled Programs.*](https://dl.acm.org/doi/10.1145/2687652)
 Martin Kong, Antoniu Pop, Louis-Noel Pouchet, R. Govindarajan, Albert Cohen, P. Sadayappan in
 ACM Transactions on Architecture and Code Optimization (TACO),
 January, 2015.
+<details>
+<summary> Summary</summary>
+  
+This work started while in my internship at ENS Paris with Albert Cohen. The main contribution is the extraction of the necessary information to parallelize a tiled program and mapping it to a streaming task runtime with point-to-point communication capabilities, OpenStream. We use off-the-shelf polyhedral tools to compute the program synchronization points and instantiate the streams between producer and consumer tasks.
+</details>
 
 [*A Framework for enhancing data reuse via Associative Reordering.*](https://dl.acm.org/doi/10.1145/2594291.2594342)
 Kevin Stock, Martin Kong, Tobias Grosser, Louis-Noel Pouchet, Fabrice Rastello, J. Ramanujam, P. Sadayappan in
@@ -69,9 +79,10 @@ June, 2013.
 <details>
 <summary> Summary</summary>
   
-This is my very first paper, and probably my second favorite one, but a close call. The main contribution is a contract that establishes the roles and responsibilities between two powerful optimizing compilers, with the goal of synthesizing highly optimized vectorized codelet. The first compiler finds and applies complex loop transformations to maximize and expose specific properties (e.g. permutability of loops). Later, the back-end compiler (Spiral), leverages the extracted and guaranteed properties to perform aggressive optimizations in straight-line code. The end result is a nice framework that achieves several commonly opposing goals: coarse-grained outer parallelism, locality and fine-grained (inner) vector-SIMD parallelism.
+This is my very first paper, and probably my second favorite one, but a close call. The main contribution is a contract that establishes the roles and responsibilities between two powerful optimizing compilers, with the goal of synthesizing highly optimized SIMD-vectorized codelets. The first compiler finds and applies complex loop transformations to maximize and expose specific properties (e.g. permutability of loops). Later, the back-end compiler (Spiral), leverages the extracted and guaranteed properties to perform aggressive optimizations in straight-line code. The end result is a nice framework that achieves several commonly opposing goals: coarse-grained outer parallelism, locality and fine-grained (inner) vector-SIMD parallelism.
 </details>
 
+<br>
 ## Service
 
 I've recently been or am currently involved in the following activities:
