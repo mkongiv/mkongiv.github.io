@@ -1,5 +1,5 @@
 ![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)
-[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [LinkedIn Profile](https://www.linkedin.com/in/martin-kong-hpc) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
+[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [LinkedIn](https://www.linkedin.com/in/martin-kong-hpc) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
 
 ## Brief Bio
 I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at **THE Ohio State University**, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
