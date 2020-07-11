@@ -70,6 +70,7 @@ I've recently been or am currently involved in the following activities:
 - [Workshop on Optimization, Modeling, Analysis and Space Exploration (OMASE)](https://cgo.org/cgo2019/acceptedWorkshopTutorial/) (co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair.
 - Proposal Review Panelist for the Department of Energy, USA.
 - [International Workshop on OpenMP (IWOMP'18)](https://iwomp2018.bsc.es/organization) Program Committee.
+- [Programming Models and Algorithms Workshop (PMAW)](https://kongm.github.io), co-located with [IPDPS'18](http://www.ipdps.org/ipdps2018/2018_advance_program.html) Workshop Chair.
 - [International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/) Workshop Co-Chair.
 
 
