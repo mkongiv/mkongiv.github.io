@@ -19,6 +19,11 @@ This is a sub-selection of my research articles in reverse chronological order (
 Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-Noël Pouchet, Rezaul Chowdhury, Robert Harrison in
 Code Generation and Optimization (CGO),
 February, 2020.
+<details>
+<summary> Summary</summary>
+  
+This paper proposes techniques for automatically partitioning, tiling and parallelizing dynamic programming algorithms using a divide-and-conquer approach. Think of it as a mix of cache-oblivious tiling combined with polyhedral compilation.
+</details>
 
 [*Model-driven Transformations for Multi-and Many-core CPUs.*](https://dl.acm.org/doi/10.1145/3314221.3314653)
 Martin Kong, Louis-Noel Pouchet in
@@ -36,11 +41,21 @@ heavily inspired in previous work, and others quite new. The motivation for havi
 Martin Kong, Louis-Noel Pouchet in
 ArXiv,
 November, 2018.
+<details>
+<summary> Summary</summary>
+  
+Extended version of my PLDI'19 paper. Includes a few cost functions that literally did not fit in the PLDI'19 version.
+</details>
 
 [*Efficient cache simulation for affine computations.*](https://link.springer.com/chapter/10.1007/978-3-030-35225-7_6)
 Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-Noel Pouchet, P Sadayappan in
 International Workshop on Languages and Compilers for Parallel Computing (LCPC),
 October, 2017.
+<details>
+<summary> Summary</summary>
+  
+Had a relatively minor role in this paper. I was at Rice at the time. It proposes techniques to simulate the cache behavior of affine programs. This work was later extended by Wenlei in a [POPL'17 paper](https://dl.acm.org/doi/10.1145/3158120) and then further extended by Gysi et al. in their [PLDI'19 paper](https://dl.acm.org/doi/10.1145/3314221.3314606) for fully associative caches. The latter one produces approximated results, albeit much faster!
+</details>
 
 [*PIPES: a Language and Compiler for Task-based Programming on Distributed-memory Clusters.*](https://dl.acm.org/doi/10.5555/3014904.3014957)
 Martin Kong, Louis-Noel Pouchet, P. Sadayappan, Vivek Sarkar in
@@ -69,7 +84,7 @@ June, 2014.
 <details>
 <summary> Summary</summary>
   
-This paper had deep effects in the optimization of iterative stencil computations. I was not the first author, that was Kevin, but I did the implementation in PoCC/PolyOpt for the ROSE compiler framework. The main contribution was the observation that register pressure was a significant performance bottleneck in iterative stencil computations. The solution was pretty clever. We recasted the stencil by formulating it as a sum of products, leveraging associative reordering. Then, leveraging these properties allowed us to use fixed loop-shifting (a.k.a *retiming*) to aling the loads and stores. This work was followed by a number of papers in Saday's and other research groups, including addressing the same issue in GPUs.
+This paper had deep effects in the optimization of iterative stencil computations. I was not the first author, that was Kevin, but I did the implementation in PoCC/PolyOpt for the ROSE compiler framework. The main contribution was the observation that register pressure was a significant performance bottleneck in iterative stencil computations. The solution was pretty clever. We recasted the stencil by formulating it as a sum of products, leveraging associative reordering. Then, leveraging these properties allowed us to use fixed loop-shifting (a.k.a *retiming*) to aling the loads and stores. The value of this work resides in the trade-off between using wider/bigger stencils that will converge in fewer iterations than their smaller counterpart. This work was followed by a number of papers in Saday's and other research groups, including addressing the same issue in GPUs.
 </details>
 
 [*When Polyhedral Transformations meet SIMD Code Generation.*](https://dl.acm.org/doi/10.1145/2491956.2462187)
