@@ -34,7 +34,7 @@ June, 2019.
   
 The core contribution of this paper (one of my favorites!) is the design and implementation of a *performance lexicon* as an extensible set of Integer Linear
 Program (ILP) cost functions, each of which attempts to maximize and extract a specific property on an optimized code. We define several cost functions, some 
-heavily inspired in previous work, and others quite new. The motivation for having such lexicon is to be able to combine and reorder the ILP objectives based on the underlying computational and structured patterns found in the code.
+heavily inspired in previous work, and others quite new. The motivation for having such lexicon is to be able to combine and reorder the ILP objectives based on the underlying computational and structural patterns found in the code.
 </details>
 
 [*A Performance Vocabulary for Affine Loop Transformations.*](https://arxiv.org/pdf/1811.06043.pdf)
