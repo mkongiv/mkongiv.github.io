@@ -61,7 +61,7 @@ Had a relatively minor role in this paper. I was at Rice at the time. It propose
 </details>
 
 [*PIPES: a Language and Compiler for Task-based Programming on Distributed-memory Clusters.*](https://dl.acm.org/doi/10.5555/3014904.3014957)
-Martin Kong, Louis-Noel Pouchet, P. Sadayappan, Vivek Sarkar in
+Martin Kong, Louis-No&eumll Pouchet, P. Sadayappan, Vivek Sarkar in
 The International Conference for High Performance Computing, Networking, Storage and Analysis (SC),
 November, 2016.
 <details>
@@ -114,9 +114,9 @@ I've recently been or am currently involved in the following activities:
 - International Conference on Parallel Architectures and Compilation Techniques (PACT'19): Artifact Evaluation Committee.
 - [Workshop on Optimization, Modeling, Analysis and Space Exploration (OMASE)](https://cgo.org/cgo2019/acceptedWorkshopTutorial/) (co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair.
 - Proposal Review Panelist for the Department of Energy, USA.
-- [International Workshop on OpenMP (IWOMP'18)](https://iwomp2018.bsc.es/organization) Program Committee.
+- [International Workshop on OpenMP (IWOMP'18)](https://iwomp2018.bsc.es/organization): Program Committee.
 - [Programming Models and Algorithms Workshop (PMAW)](https://kongm.github.io), co-located with [IPDPS'18](http://www.ipdps.org/ipdps2018/2018_advance_program.html): Workshop Chair.
-- [International Workshop on Polyhedral Polyhedral Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/): Workshop Co-Chair.
+- [International Workshop on Polyhedral Compilation Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/): Workshop Co-Chair.
 
 <br>
 ## Working with me
