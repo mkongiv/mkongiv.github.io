@@ -2,11 +2,11 @@
 [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [LinkedIn](https://www.linkedin.com/in/martin-kong-hpc) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
 
 ## Brief Bio
-I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at **THE Ohio State University**, where I was advised by Prof. Louis-Noel Pouchet and Prof. (Saday) Sadayappan.
+I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at **THE Ohio State University**, where I was advised by Prof. Louis-No&euml;l Pouchet and Prof. (Saday) Sadayappan.
 
 <br>
 ## Research Interests
-All of my research falls within the broad area of systems, and most of it within the sub-area of Programming Languages and High Performance Computing (HPC). You can find OU in [CSRankings](http://csrankings.org/#/index?plan). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
+All of my research falls within the broad area of systems, and most of it within the sub-areas of Programming Languages and High Performance Computing (HPC). You can find OU in [CSRankings](http://csrankings.org/#/index?plan). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
 - High-performance computing
 - Domain-specific computing
@@ -19,7 +19,7 @@ All of my research falls within the broad area of systems, and most of it within
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
 [*Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers.*](https://dl.acm.org/doi/10.1145/3368826.3377916)
-Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-Noël Pouchet, Rezaul Chowdhury, Robert Harrison in
+Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-No&euml;l Pouchet, Rezaul Chowdhury, Robert Harrison in
 Code Generation and Optimization (CGO),
 February, 2020.
 <details>
@@ -29,15 +29,15 @@ This paper proposes techniques for automatically partitioning, tiling and parall
 </details>
 
 [*Model-driven Transformations for Multi-and Many-core CPUs.*](https://dl.acm.org/doi/10.1145/3314221.3314653)
-Martin Kong, Louis-Noel Pouchet in
+Martin Kong, Louis-No&euml;l Pouchet in
 Programming Languages Design and Implementation (PLDI),
 June, 2019.
 <details>
 <summary> Summary</summary>
   
 The core contribution of this paper (one of my favorites!) is the design and implementation of a *performance lexicon* as an extensible set of Integer Linear
-Program (ILP) cost functions, each of which attempts to maximize and extract a specific property on an optimized code. We define several cost functions, some 
-heavily inspired in previous work, and others quite new. The motivation for having such lexicon is to be able to combine and reorder the ILP objectives based on the underlying computational and structural patterns found in the code.
+Program (ILP) cost functions, each of which attempts to maximize and extract a specific property on the optimized code. We define several cost functions, some 
+heavily inspired in previous works, and others quite new. The motivation for having such lexicon is to be able to combine and reorder the ILP objectives based on the underlying computational and structural patterns found in the code.
 </details>
 
 [*A Performance Vocabulary for Affine Loop Transformations.*](https://arxiv.org/pdf/1811.06043.pdf)
@@ -51,13 +51,13 @@ Extended version of my PLDI'19 paper. Includes a few cost functions that literal
 </details>
 
 [*Efficient cache simulation for affine computations.*](https://link.springer.com/chapter/10.1007/978-3-030-35225-7_6)
-Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-No&euml;l Pouchet, P Sadayappan in
+Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-No&euml;l Pouchet, P. Sadayappan in
 International Workshop on Languages and Compilers for Parallel Computing (LCPC),
 October, 2017.
 <details>
 <summary> Summary</summary>
   
-Had a relatively minor role in this paper. I was at Rice at the time. It proposes techniques to simulate the cache behavior of affine programs. This work was later extended by Wenlei in a [POPL'17 paper](https://dl.acm.org/doi/10.1145/3158120) and then further extended by Gysi et al. in their [PLDI'19 paper](https://dl.acm.org/doi/10.1145/3314221.3314606) for fully associative caches. The latter one produces approximated results, albeit much faster!
+Had a relatively minor role in this paper. I was at Rice at the time. It proposes techniques to simulate the cache behavior of affine programs. This work was later extended by Wenlei Bao in a [POPL'17 paper](https://dl.acm.org/doi/10.1145/3158120) and then further extended by Gysi et al. in their [PLDI'19 paper](https://dl.acm.org/doi/10.1145/3314221.3314606) for fully associative caches. The latter one produces approximated results, albeit much faster!
 </details>
 
 [*PIPES: a Language and Compiler for Task-based Programming on Distributed-memory Clusters.*](https://dl.acm.org/doi/10.5555/3014904.3014957)
@@ -71,7 +71,7 @@ I started this work towards the end of my PhD, and finished it during my post-do
 </details>
 
 [*Compiler/runtime Framework for Dynamic Dataflow Parallelization of Tiled Programs.*](https://dl.acm.org/doi/10.1145/2687652)
-Martin Kong, Antoniu Pop, Louis-Noel Pouchet, R. Govindarajan, Albert Cohen, P. Sadayappan in
+Martin Kong, Antoniu Pop, Louis-No&euml;l Pouchet, R. Govindarajan, Albert Cohen, P. Sadayappan in
 ACM Transactions on Architecture and Code Optimization (TACO),
 January, 2015.
 <details>
@@ -81,17 +81,17 @@ This work started while in my internship at ENS Paris with Albert Cohen. The mai
 </details>
 
 [*A Framework for enhancing data reuse via Associative Reordering.*](https://dl.acm.org/doi/10.1145/2594291.2594342)
-Kevin Stock, Martin Kong, Tobias Grosser, Louis-Noel Pouchet, Fabrice Rastello, J. Ramanujam, P. Sadayappan in
+Kevin Stock, Martin Kong, Tobias Grosser, Louis-No&euml;l Pouchet, Fabrice Rastello, J. Ramanujam, P. Sadayappan in
 Programming Languages Design and Implementation (PLDI),
 June, 2014.
 <details>
 <summary> Summary</summary>
   
-This paper had deep effects in the optimization of iterative stencil computations. I was not the first author, that was Kevin, but I did the implementation in PoCC/PolyOpt for the ROSE compiler framework. The main contribution was the observation that register pressure was a significant performance bottleneck in iterative stencil computations. The solution was pretty clever. We recasted the stencil by formulating it as a sum of products, leveraging associative reordering. Then, leveraging these properties allowed us to use fixed loop-shifting (a.k.a *retiming*) to aling the loads and stores. The value of this work resides in the trade-off between using wider/bigger stencils that will converge in fewer iterations than their smaller counterpart. This work was followed by a number of papers in Saday's and other research groups, including addressing the same issue in GPUs.
+This paper had deep effects in the optimization of iterative stencil computations. I was not the first author, that was Kevin, but I did the implementation in PoCC/PolyOpt for the ROSE compiler framework. The main contribution was the observation that register pressure was a significant performance bottleneck in iterative stencil computations. The solution was pretty clever. We recasted the stencil by formulating it as a sum of products, leveraging associative reordering. Then, leveraging these properties allowed us to use fixed loop-shifting (a.k.a *retiming*) to aling the loads and stores. The value of this work resides in the trade-off between using high-dimensional stencils that will converge in fewer iterations than their lower-dimensional counterpart. This work was followed by a number of papers in Saday's and other research groups, including addressing the same issue in GPUs.
 </details>
 
 [*When Polyhedral Transformations meet SIMD Code Generation.*](https://dl.acm.org/doi/10.1145/2491956.2462187)
-Martin Kong, Richard Veras, Louis-Noel Pouchet, Franz Franchetti, P. Sadayappan in 
+Martin Kong, Richard Veras, Louis-No&euml;l Pouchet, Franz Franchetti, P. Sadayappan in 
 Programming Languages Design and Implementation (PLDI),
 June, 2013.
 <details>
