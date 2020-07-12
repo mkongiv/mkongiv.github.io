@@ -41,7 +41,7 @@ heavily inspired in previous work, and others quite new. The motivation for havi
 </details>
 
 [*A Performance Vocabulary for Affine Loop Transformations.*](https://arxiv.org/pdf/1811.06043.pdf)
-Martin Kong, Louis-Noel Pouchet in
+Martin Kong, Louis-No&euml;l Pouchet in
 ArXiv,
 November, 2018.
 <details>
@@ -51,7 +51,7 @@ Extended version of my PLDI'19 paper. Includes a few cost functions that literal
 </details>
 
 [*Efficient cache simulation for affine computations.*](https://link.springer.com/chapter/10.1007/978-3-030-35225-7_6)
-Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-Noel Pouchet, P Sadayappan in
+Wenlei Bao, Prashant Singh Rawat, Martin Kong, Sriram Krishnamoorthy, Louis-No&euml;l Pouchet, P Sadayappan in
 International Workshop on Languages and Compilers for Parallel Computing (LCPC),
 October, 2017.
 <details>
@@ -61,7 +61,7 @@ Had a relatively minor role in this paper. I was at Rice at the time. It propose
 </details>
 
 [*PIPES: a Language and Compiler for Task-based Programming on Distributed-memory Clusters.*](https://dl.acm.org/doi/10.5555/3014904.3014957)
-Martin Kong, Louis-No&eumll Pouchet, P. Sadayappan, Vivek Sarkar in
+Martin Kong, Louis-No&euml;l Pouchet, P. Sadayappan, Vivek Sarkar in
 The International Conference for High Performance Computing, Networking, Storage and Analysis (SC),
 November, 2016.
 <details>
