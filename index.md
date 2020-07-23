@@ -18,6 +18,16 @@ All of my research falls within the broad area of systems, and most of it within
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
+[*New Fancy Paper.*](Coming soon)
+..., Martin Kong, ... in
+International Conference on Parallel Architectures and Compilation Techniques (PACT),
+October, 2020.
+<details>
+<summary> Summary</summary>
+  
+Coming soon
+</details>
+
 [*Deriving Parametric Multi-way Recursive Divide-&-Conquer Dynamic Programming Algorithms using Polyhedral Compilers.*](https://dl.acm.org/doi/10.1145/3368826.3377916)
 Mohammad Mahdi Javanmard, Zafar Ahmad, Martin Kong, Louis-No&euml;l Pouchet, Rezaul Chowdhury, Robert Harrison in
 Code Generation and Optimization (CGO),
@@ -107,10 +117,10 @@ I've recently been or am currently involved in the following activities:
 
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member.
 - [2020 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
-- [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/): Program Committee (PC) member.
+- [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/): Program Committee (PC) member, session chair.
 - [ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20)](https://conf.researchr.org/committee/CC-2020/CC-2020-research-artifacts-artifact-evaluation-committee): Artifact Evaluation Co-Chair.
 - Proposal Review Panelist for the National Science Foundation, USA.
-- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'19)](https://lcpc19.cc.gatech.edu/committee/): Program Committee.
+- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'19)](https://lcpc19.cc.gatech.edu/committee/): PC member, session chair.
 - International Conference on Parallel Architectures and Compilation Techniques (PACT'19): Artifact Evaluation Committee.
 - [Workshop on Optimization, Modeling, Analysis and Space Exploration (OMASE)](https://cgo.org/cgo2019/acceptedWorkshopTutorial/) (co-located with the Code Generation and Optimization Conference, CGO'19): Workshop Co-Chair.
 - Proposal Review Panelist for the Department of Energy, USA.
