@@ -116,6 +116,8 @@ This is my very first paper, and probably my second favorite one, but a close ca
 I've recently been or am currently involved in the following activities:
 
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member.
+- ACM TACO, ACM TOPC: reviewer (2016-2020).
+- IEEE TPDS: reviewer (2016-2020).
 - [2020 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
 - [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/): Program Committee (PC) member, session chair.
 - [ACM SIGPLAN 2020 International Conference on Compiler Construction (CC'20)](https://conf.researchr.org/committee/CC-2020/CC-2020-research-artifacts-artifact-evaluation-committee): Artifact Evaluation Co-Chair.
