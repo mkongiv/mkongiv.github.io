@@ -115,7 +115,7 @@ This is my very first paper, and probably my second favorite one, but a close ca
 I've recently been or am currently involved in the following activities:
 - [IDPDPS'21](https://www.ipdps.org/ipdps2021/2021-organization.html): Technical Track PC member. 
 - [Techsuyo'20 (Education and Research Track)](https://www.techsuyo.org/speakers): Panelist
-- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member.
+- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member, Networking (Social Breaks) Sessions Chair.
 - ACM TACO, ACM TOPC: reviewer (2016-2020).
 - IEEE TPDS: reviewer (2016-2020).
 - [2020 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
