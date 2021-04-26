@@ -27,7 +27,7 @@ June, 2021.
 In (almost) one line: We model the tile memory footprint induced by the chosen tile size under 3 loop fusion structures. A notion of ``balance'' is introduced to favor two heuristics, vector mode and reuse mode.
 </details>
 
-[*Automatic Generation of Multi-Objective Polyhedral Compiler Transformations.*]
+[*Automatic Generation of Multi-Objective Polyhedral Compiler Transformations.*](https://dl.acm.org/doi/10.1145/3410463.3414635)
 Lorenzo Chelini, Tobias Gysi, Tobias Grosser, Martin Kong, Henk Corporaal in
 International Conference on Parallel Architectures and Compilation Techniques (PACT),
 October, 2020.
