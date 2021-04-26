@@ -1,8 +1,8 @@
 ![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)<br>
-[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [LinkedIn](https://www.linkedin.com/in/martin-kong-hpc) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
+[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
 
 ## Brief Bio
-I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University, where I was a member of Vivek Sarkar's Habanero Research group. I obtained my PhD at **THE Ohio State University**, where I was advised by Prof. Louis-No&euml;l Pouchet and Prof. (Saday) Sadayappan.
+I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University. I obtained my PhD at **THE Ohio State University**.
 
 <br>
 ## Research Interests
@@ -18,7 +18,16 @@ All of my research falls within the broad area of systems, and most of it within
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
-[*Automatic Generation of Multi-Objective Polyhedral Compiler Transformations.*](*NEW*)
+[*Tile Size Selection of Affine Programs for GPGPUs using Polyhedral Cross-Compilation.*](*NEW*)
+Khaled Abdelaal and Martin Kong in
+International Conference on Supercomputing (ICS) [TO APPEAR], 
+June, 2021.
+<details>
+<summary> Summary</summary>
+In (almost) one line: We model the tile memory footprint induced by the chosen tile size under 3 loop fusion structures. A notion of ``balance'' is introduced to favor two heuristics, vector mode and reuse mode.
+</details>
+
+[*Automatic Generation of Multi-Objective Polyhedral Compiler Transformations.*]
 Lorenzo Chelini, Tobias Gysi, Tobias Grosser, Martin Kong, Henk Corporaal in
 International Conference on Parallel Architectures and Compilation Techniques (PACT),
 October, 2020.
@@ -113,10 +122,13 @@ This is my very first paper, and probably my second favorite one, but a close ca
 ## Service
 
 I've recently been or am currently involved in the following activities:
+- [International Conference on Parallel Processing (ICPP'21)](https://oaciss.uoregon.edu/icpp21/committees.php): Program Committee (PC) member, Software track.
+- ACM TOPLAS: reviewer (2021).
+- [2021 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
 - [IDPDPS'21](https://www.ipdps.org/ipdps2021/2021-organization.html): Technical Track PC member. 
 - [Techsuyo'20 (Education and Research Track)](https://www.techsuyo.org/speakers): Panelist
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member, Networking (Social Breaks) Sessions Chair.
-- ACM TACO, ACM TOPC: reviewer (2016-2020).
+- ACM TACO, ACM TOPC: reviewer (2016-2021).
 - IEEE TPDS: reviewer (2016-2020).
 - [2020 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
 - [International Conference on Parallel Processing (ICPP'20)](https://jnamaral.github.io/icpp20/organization/): Program Committee (PC) member, session chair.
