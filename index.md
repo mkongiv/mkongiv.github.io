@@ -18,6 +18,16 @@ All of my research falls within the broad area of systems, and most of it within
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
+
+[*On the Impact of Affine Loop Transformations in Qubit Allocation.*](*NEW*)
+Martin Kong in
+ACM Transactions on Quantum Computing (TQC) [ACCEPTED],
+2021
+<details>
+  <summary> Summary </summary>
+  A high-level language to express quantum programs meeting the requirements of the polyhedral model; Exploration of off-the-shelf loop transformations on affine quantum circuits.
+</details>
+
 [*Tile Size Selection of Affine Programs for GPGPUs using Polyhedral Cross-Compilation.*](*NEW*)
 Khaled Abdelaal and Martin Kong in
 International Conference on Supercomputing (ICS) [TO APPEAR], 
