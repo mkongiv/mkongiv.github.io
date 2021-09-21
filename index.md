@@ -28,9 +28,18 @@ ACM Transactions on Quantum Computing (TQC) [ACCEPTED],
   A high-level language to express quantum programs meeting the requirements of the polyhedral model; Exploration of off-the-shelf loop transformations on affine quantum circuits.
 </details>
 
+[*OCC: An Automated End-to-End Machine Learning Optimizing Compiler for Computing-In-Memory*](*NEW*)
+Adam Siemieniuk, Lorenzo Chelini, Asif Ali Khan, Jeronimo Castrillon, Andi Drebes, Henk Corporaal, Tobias Grosser, Martin Kong
+in EEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,
+2021
+<details>
+  <summary> Summary </summary>
+  We propose a novel ML optimization framework for CIM (memristor crossbar-based) accelerators. We leverage the new MLIR pipepline and propose crossbar specific transformations to improve application performance and crossbar lifetime.
+</details>
+
 [*Tile Size Selection of Affine Programs for GPGPUs using Polyhedral Cross-Compilation.*](*NEW*)
 Khaled Abdelaal and Martin Kong in
-International Conference on Supercomputing (ICS) [TO APPEAR], 
+International Conference on Supercomputing (ICS), 
 June, 2021.
 <details>
 <summary> Summary</summary>
