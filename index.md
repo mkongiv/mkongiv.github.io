@@ -8,9 +8,10 @@ I am an Assistant Professor in the [School of Computer Science at the University
 ## Research Interests
 All of my research falls within the broad area of systems, and most of it within the sub-areas of Programming Languages and High Performance Computing (HPC). You can find OU in [CSRankings](http://csrankings.org/#/index?plan). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
+- Polyhedral compilation
 - High-performance computing
 - Domain-specific computing
-- Polyhedral compilation
+- Quantum computing
 - Automatic parallelization for data-flow and task-parallel run-times
 
 <br>
