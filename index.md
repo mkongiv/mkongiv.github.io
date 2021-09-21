@@ -40,7 +40,7 @@ in EEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,
 [*Tile Size Selection of Affine Programs for GPGPUs using Polyhedral Cross-Compilation.*](https://dl.acm.org/doi/abs/10.1145/3447818.3460369)
 Khaled Abdelaal and Martin Kong in
 International Conference on Supercomputing (ICS), 
-June, 2021. [*Artifact*](https://github.com/mkongiv/polycross-comp-ics21).
+June, 2021. [*Artifact Available*](https://github.com/mkongiv/polycross-comp-ics21).
 <details>
 <summary> Summary</summary>
 In (almost) one line: We model the tile memory footprint induced by the chosen tile size under 3 loop fusion structures. A notion of ``balance'' is introduced to favor two heuristics, vector mode and reuse mode.
