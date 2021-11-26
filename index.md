@@ -1,5 +1,5 @@
 ![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)<br>
-[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [Official OU Homepage](https://www.cs.ou.edu/~mkong/) [Twitter](https://twitter.com/MartinKong_CS)
+[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [Official OU Homepage](https://www.cs.ou.edu/~mkong/)
 
 ## Brief Bio
 I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University. I obtained my PhD at **THE Ohio State University**.
@@ -142,6 +142,9 @@ This is my very first paper, and probably my second favorite one, but a close ca
 ## Service
 
 I've recently been or am currently involved in the following activities:
+- [International Conference on Parallel Processing (ICPP'22)](https://icpp22.gitlabpages.inria.fr/): Program Committee (PC) member, Software track.
+- [International Workshop on Polyhedral Compilation Techniques (IMPACT'22)](https://acohen.gitlabpages.inria.fr/impact/impact2022/): Program Committee (PC) member.
+- [International Workshop on Languages and Compilers for Parallel Computing (LCPC'21)](https://lcpc2021.github.io/): Program Committee (PC) member, Career Networking Session Chair.
 - [International Conference on Parallel Processing (ICPP'21)](https://oaciss.uoregon.edu/icpp21/committees.php): Program Committee (PC) member, Software track.
 - [2021 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
 - [HIPS'21](http://www.cs.wm.edu/~bren/HIPS_2021.htm#committees): PC member.
