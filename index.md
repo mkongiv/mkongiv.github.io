@@ -19,6 +19,14 @@ All of my research falls within the broad area of systems, and most of it within
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
+[*QRANE: Lifting QASM Programs to an Affine IR.*](TBD)
+Blake Gerard, Tobias Grossser, Martin Kong in ACM SIGPLAN 2022 International Conference on Compiler Construction (CC'22),
+2022
+<details>
+  <summary> Summary </summary>
+  Automatic delinearization techniques to reconstruct the affine/polyhedral IR from a quantum assembly program.
+</details>
+
 
 [*On the Impact of Affine Loop Transformations in Qubit Allocation.*](https://dl.acm.org/doi/10.1145/3465409)
 Martin Kong in
