@@ -151,12 +151,11 @@ This is my very first paper, and probably my second favorite one, but a close ca
 ## Service
 
 I've recently been or am currently involved in the following activities:
-- 
 - [IPDPS'23](https://www.ipdps.org/ipdps2023/2023-organization.html)): Technical Track PC member. 
 - [Principles and Practice of Parallel Programming (PPoPP) 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-organizing-committee): Submissions Chair and PC member.
 - [Compiler Construction (CC) 2023](https://conf.researchr.org/committee/CC-2023/CC-2023-organizing-committee): Chair of the Artifact Evaluation Committee.
 - [International Conference on Parallel Processing (ICPP'22)](https://icpp22.gitlabpages.inria.fr/): Program Committee (PC) member, Software track.
-- [2022 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
+- [2022 Tapia Conference](https://tapiaconference.cmd-it.org/): Financial aid reviewer, technical programming committee member.
 - [International Workshop on Polyhedral Compilation Techniques (IMPACT'22)](https://acohen.gitlabpages.inria.fr/impact/impact2022/): Program Committee (PC) member.
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'21)](https://lcpc2021.github.io/): Program Committee (PC) member, Career Networking Session Chair.
 - [International Conference on Parallel Processing (ICPP'21)](https://oaciss.uoregon.edu/icpp21/committees.php): Program Committee (PC) member, Software track.
