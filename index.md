@@ -2,7 +2,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [Official OU Homepage](https://www.cs.ou.edu/~mkong/)
 
 ## Brief Bio
-Since June of 2022 I've been an Assistant Professor in the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/).
+In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
 Prior to this I was an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs).
 
 <br>
@@ -151,7 +151,12 @@ This is my very first paper, and probably my second favorite one, but a close ca
 ## Service
 
 I've recently been or am currently involved in the following activities:
+- 
+- [IPDPS'23](https://www.ipdps.org/ipdps2023/2023-organization.html)): Technical Track PC member. 
+- [Principles and Practice of Parallel Programming (PPoPP) 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-organizing-committee): Submissions Chair and PC member.
+- [Compiler Construction (CC) 2023](https://conf.researchr.org/committee/CC-2023/CC-2023-organizing-committee): Chair of the Artifact Evaluation Committee.
 - [International Conference on Parallel Processing (ICPP'22)](https://icpp22.gitlabpages.inria.fr/): Program Committee (PC) member, Software track.
+- [2022 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
 - [International Workshop on Polyhedral Compilation Techniques (IMPACT'22)](https://acohen.gitlabpages.inria.fr/impact/impact2022/): Program Committee (PC) member.
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'21)](https://lcpc2021.github.io/): Program Committee (PC) member, Career Networking Session Chair.
 - [International Conference on Parallel Processing (ICPP'21)](https://oaciss.uoregon.edu/icpp21/committees.php): Program Committee (PC) member, Software track.
@@ -189,9 +194,9 @@ I am looking for smart, motivated, independent and hard-working students to join
 <br>
 ## Contact Information
 - Current Position: Assistant Professor
-- Affiliation: University of Oklahoma, School of Computer Science
-- E-Mail: mkong at ou.edu
-- Office: DEH 230
-- Phone: (405) 325-2978
+- Affiliation: THE Ohio State University, Department of Computer Science and Engineering (CSE)
+- E-Mail: TBD
+- Office: TBD
+- Phone: TBD
 
-NOTE: This site is likely a bit more up-to-date than [my official OU homepage](https://www.cs.ou.edu/~mkong/). 
+NOTE: This site is likely a bit more up-to-date than [my official OSU homepage](TBD). 
