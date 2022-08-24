@@ -7,13 +7,16 @@ Prior to this I was an Assistant Professor in the [School of Computer Science at
 
 <br>
 ## Research Interests
-All of my research falls within the broad area of systems, and most of it within the sub-areas of Programming Languages and High Performance Computing (HPC). You can find OU in [CSRankings](http://csrankings.org/#/index?plan). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
+All of my research falls within the broad area of systems, and most of it within the sub-areas of Programming Languages and High Performance Computing (HPC). You can find OSU in [CSRankings](https://csrankings.org/#/index?hpc&plan&us). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
 - Polyhedral compilation
 - High-performance computing
 - Domain-specific computing
 - Quantum computing
 - Automatic parallelization for data-flow and task-parallel run-times
+
+## Funding
+I'm currently externally funded by a PPoSS Large collaborative grant (Award Number 2234376) (Thank you NSF!), and I'm looking for students. If you are interested in my research, please see below.
 
 <br>
 ## Publications
@@ -182,12 +185,12 @@ I've recently been or am currently involved in the following activities:
 <br>
 ## Working with me
 
-I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DEH 230. If sending me an email please include:
+I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DL 699. If sending me an email please include:
 
 - Name
 - Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture.
 - Past experience: research, academic, industry.
-- Are you currently at OU or are you applying?
+- Are you currently at OSU or are you applying?
 - More importantly, please describe **why** do you want to work with me? Reading some of my papers or briefly describing an area you are interested in will help.
 
 <br>
@@ -195,7 +198,7 @@ I am looking for smart, motivated, independent and hard-working students to join
 - Current Position: Assistant Professor
 - Affiliation: THE Ohio State University, Department of Computer Science and Engineering (CSE)
 - E-Mail: TBD
-- Office: TBD
+- Office: DL 699
 - Phone: TBD
 
 NOTE: This site is likely a bit more up-to-date than [my official OSU homepage](TBD). 
