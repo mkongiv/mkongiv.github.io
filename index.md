@@ -151,7 +151,7 @@ This is my very first paper, and probably my second favorite one, but a close ca
 ## Service
 
 I've recently been or am currently involved in the following activities:
-- [IPDPS'23](https://www.ipdps.org/ipdps2023/2023-organization.html)): Technical Track PC member. 
+- [IPDPS'23](https://www.ipdps.org/ipdps2023/2023-organization.html): Technical Track PC member. 
 - [Principles and Practice of Parallel Programming (PPoPP) 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-organizing-committee): Submissions Chair and PC member.
 - [Compiler Construction (CC) 2023](https://conf.researchr.org/committee/CC-2023/CC-2023-organizing-committee): Chair of the Artifact Evaluation Committee.
 - [International Conference on Parallel Processing (ICPP'22)](https://icpp22.gitlabpages.inria.fr/): Program Committee (PC) member, Software track.
