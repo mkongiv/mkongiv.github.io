@@ -1,5 +1,5 @@
 ![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)<br>
-[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [Official OU Homepage](https://www.cs.ou.edu/~mkong/)
+[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) 
 
 ## Brief Bio
 In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
@@ -185,19 +185,17 @@ I've recently been or am currently involved in the following activities:
 <br>
 ## Working with me
 
-I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DL 699. If sending me an email please include:
+I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in Quantum Computing (QC), HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DL 699. If sending me an email please include:
 
 - Name
-- Background: undergrad major, favorite courses, experience in HPC, programming languages, compilers, computer architecture.
+- Background: undergrad major, favorite courses, experience in HPC, QC, programming languages, compilers, computer architecture.
 - Past experience: research, academic, industry.
-- Are you currently at OSU or are you applying?
 - More importantly, please describe **why** do you want to work with me? Reading some of my papers or briefly describing an area you are interested in will help.
 
 <br>
 ## Contact Information
 - Current Position: Assistant Professor
 - Affiliation: THE Ohio State University, Department of Computer Science and Engineering (CSE)
-- E-Mail: TBD
 - Office: DL 699
 - Phone: TBD
 
