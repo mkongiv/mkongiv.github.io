@@ -2,7 +2,8 @@
 [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) [Official OU Homepage](https://www.cs.ou.edu/~mkong/)
 
 ## Brief Bio
-I am an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs). Before joining this amazing department I spent two years in the Computational Science Initiative at Brookhaven National Laboratory. Prior to that, I held a post-doctoral research position in the Computer Science Department of Rice University. I obtained my PhD at **THE Ohio State University**.
+Since June of 2022 I've been an Assistant Professor in the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/).
+Prior to this I was an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs).
 
 <br>
 ## Research Interests
