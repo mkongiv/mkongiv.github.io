@@ -162,7 +162,7 @@ I've recently been or am currently involved in the following activities:
 - [2021 ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org).
 - [HIPS'21](http://www.cs.wm.edu/~bren/HIPS_2021.htm#committees): PC member.
 - ACM TOPLAS: reviewer (2021).
-- [IDPDPS'21](https://www.ipdps.org/ipdps2021/2021-organization.html): Technical Track PC member. 
+- [IPDPS'21](https://www.ipdps.org/ipdps2021/2021-organization.html): Technical Track PC member. 
 - [Techsuyo'20 (Education and Research Track)](https://www.techsuyo.org/speakers): Panelist
 - [International Workshop on Languages and Compilers for Parallel Computing (LCPC'20)](https://lcpc2020.cs.stonybrook.edu/committees): Program Committee (PC) member, Networking (Social Breaks) Sessions Chair.
 - ACM TACO, ACM TOPC: reviewer (2016-2021).
