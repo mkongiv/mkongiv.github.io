@@ -1,5 +1,3 @@
-![me](https://www.cs.ou.edu/~mkong/figures/me-ou1.jpg)<br>
-[Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) [DBLP](https://dblp.org/pers/k/Kong:Martin.html) 
 
 ## Brief Bio
 In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
@@ -22,6 +20,13 @@ I'm currently externally funded by a PPoSS Large collaborative grant (Award Numb
 ## Publications
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
+
+[Automatic Generation of Distributed-Memory Mappings for Tensor Computations](https://dl.acm.org/doi/10.1145/3581784.3607096)
+Martin Kong, Raneem Abu Yosef, Atanas Rountev and P. Sadayappan.
+in The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC’23).
+<details>
+  A novel non-linear formulation to partition and map data and computations of tensor programs. Solutions to the formulation, found with the Z3 SMT solver, are used to generate efficient MPI code capable of making external library calls for local computations.
+</details>
 
 [*QRANE: Lifting QASM Programs to an Affine IR.*](TBD)
 Blake Gerard, Tobias Grossser, Martin Kong in ACM SIGPLAN 2022 International Conference on Compiler Construction (CC'22),
