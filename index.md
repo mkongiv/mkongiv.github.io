@@ -1,5 +1,6 @@
 
 ## Brief Bio
+
 In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
 Prior to this I was an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs).
 
@@ -14,7 +15,9 @@ All of my research falls within the broad area of systems, and most of it within
 - Quantum computing
 - Automatic parallelization for data-flow and task-parallel run-times
 
+
 ## Funding
+
 I'm currently externally funded by a PPoSS Large collaborative grant (Award Number 2234376) (Thank you NSF!), and I'm looking for students. If you are interested in my research, please see below.
 
 
@@ -198,7 +201,7 @@ I am looking for smart, motivated, independent and hard-working students to join
 - Past experience: research, academic, industry.
 - More importantly, please describe **why** do you want to work with me? Reading some of my papers or briefly describing an area you are interested in will help.
 
-<br>
+
 ## Contact Information
 - Current Position: Assistant Professor
 - Affiliation: THE Ohio State University, Department of Computer Science and Engineering (CSE)
