@@ -3,8 +3,9 @@
 In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
 Prior to this I was an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs).
 
-<br>
+
 ## Research Interests
+
 All of my research falls within the broad area of systems, and most of it within the sub-areas of Programming Languages and High Performance Computing (HPC). You can find OSU in [CSRankings](https://csrankings.org/#/index?hpc&plan&us). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
 - Polyhedral compilation
@@ -16,7 +17,7 @@ All of my research falls within the broad area of systems, and most of it within
 ## Funding
 I'm currently externally funded by a PPoSS Large collaborative grant (Award Number 2234376) (Thank you NSF!), and I'm looking for students. If you are interested in my research, please see below.
 
-<br>
+
 ## Publications
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
@@ -155,7 +156,7 @@ June, 2013.
 This is my very first paper, and probably my second favorite one, but a close call. The main contribution is a contract that establishes the roles and responsibilities between two powerful optimizing compilers, with the goal of synthesizing highly optimized SIMD-vectorized codelets. The first compiler finds and applies complex loop transformations to maximize and expose specific properties (e.g. permutability of loops). Later, the back-end compiler (Spiral), leverages the extracted and guaranteed properties to perform aggressive optimizations in straight-line code. The end result is a nice framework that achieves several commonly opposing goals: coarse-grained outer parallelism, locality and fine-grained (inner) vector-SIMD parallelism.
 </details>
 
-<br>
+
 ## Service
 
 I've recently been or am currently involved in the following activities:
@@ -187,7 +188,7 @@ I've recently been or am currently involved in the following activities:
 - [Programming Models and Algorithms Workshop (PMAW)](https://kongm.github.io), co-located with [IPDPS'18](http://www.ipdps.org/ipdps2018/2018_advance_program.html): Workshop Chair.
 - [International Workshop on Polyhedral Compilation Techniques (IMPACT'18)](http://impact.gforge.inria.fr/impact2018/): Workshop Co-Chair.
 
-<br>
+
 ## Working with me
 
 I am looking for smart, motivated, independent and hard-working students to join my research group. If you are interested in working on challenging problems in Quantum Computing (QC), HPC / parallel programming / programming languages / compilers, send me an email with the following, or stop by my office at DL 699. If sending me an email please include:
