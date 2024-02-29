@@ -2,13 +2,15 @@
 ## Brief Bio
 
 In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
-Prior to this I was an Assistant Professor in the [School of Computer Science at the University of Oklahoma (OU)](https://www.ou.edu/coe/cs).
+
 
 
 ## Research Interests
 
 All of my research falls within the broad area of systems, and most of it within the sub-areas of Programming Languages and High Performance Computing (HPC). You can find OSU in [CSRankings](https://csrankings.org/#/index?hpc&plan&us). My research leverages programming languages and compilers as vehicles to achieve high-performance on modern heterogeneous and complex architectures. To achieve this goal, I like to find synergies among these areas, the underlying architecture as well as domain and algorithmic knowledge.
 
+- Communication minimization of distributed-memory computations
+- Compiler energy-oriented transformations and optimizations for GPUs and hardware accelerators
 - Polyhedral compilation
 - High-performance computing
 - Domain-specific computing
