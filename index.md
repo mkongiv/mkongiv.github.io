@@ -25,14 +25,21 @@ I'm currently externally funded by a PPoSS Large collaborative grant (Award Numb
 
 This is a sub-selection of my research articles in reverse chronological order (most recent at the top). You can find the complete list in my [DBLP](https://dblp.org/pers/k/Kong:Martin.html) and in my [Google Scholar](https://scholar.google.com/citations?user=A08cGJAAAAAJ&hl=en) profile. Next to each article you will find an informal summary of the paper's main contribution.
 
-[Automatic Generation of Distributed-Memory Mappings for Tensor Computations](https://dl.acm.org/doi/10.1145/3581784.3607096)
+[*Energy-Aware Tile Size Selection for Affine Programs on GPUs*](TBD) 
+Malith Jayaweera, Martin Kong, Yanzhi Wang, David Kaeli.
+In *International Code Generation and Optimization (CGO'24)*.
+<details>
+  Approach to selecting tile sizes for affine computations to be executed on GPUs. Tile sizes are selected to maximize inter-thread intra-SM data sharing instead of maximizing parallelism (i.e. number of threads) or maximizing intra-thread locality. Our approach restricts the liveness of data tiles in cache to achieve energy improvements of up to 6x. Our formulation, implemented and solved using the Z3 SMT solver, also takes into account the mapping of array references to different types of GPU memories (Shared-Memory, L1 and L2 cache) and several GPU hardware limits to maximmize resource usage while also aiming to minimize energy consumption and throughput. 
+</details>
+
+[*Automatic Generation of Distributed-Memory Mappings for Tensor Computations*](https://dl.acm.org/doi/10.1145/3581784.3607096)
 Martin Kong, Raneem Abu Yosef, Atanas Rountev and P. Sadayappan.
 In *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC’23)*.
 <details>
   A novel non-linear formulation to partition and map data and computations of tensor programs. Solutions to the formulation, found with the Z3 SMT solver, are used to generate efficient MPI code capable of making external library calls for local computations.
 </details>
 
-[*QRANE: Lifting QASM Programs to an Affine IR.*](TBD)
+[*QRANE: Lifting QASM Programs to an Affine IR.*](https://dl.acm.org/doi/10.1145/3497776.3517775)
 Blake Gerard, Tobias Grossser, Martin Kong in ACM SIGPLAN 2022 International Conference on Compiler Construction (CC'22),
 2022
 <details>
@@ -163,6 +170,13 @@ This is my very first paper, and probably my second favorite one, but a close ca
 ## Service
 
 I've recently been or am currently involved in the following activities:
+- HIPS’24 Workshop (Co-located with IPDPS’24).
+- [Code Generation and Optimization (CGO) 2024](https://conf.researchr.org/committee/cgo-2024/cgo-2024-organizing-committee): Workshop and Tutorials Chair.
+- [Compiler Construction (CC) 2024](https://conf.researchr.org/committee/CC-2024/CC-2024-organizing-committee): Chair of the Artifact Evaluation Committee.
+- ACM TOPLAS: reviewer (2023).
+- [The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC’23)](https://sc23.supercomputing.org/planning-committee/): PC member
+- Tapia Conference 2023 – Academic Deputy Chair
+- NSF Panelist: 2023
 - [IPDPS'23](https://www.ipdps.org/ipdps2023/2023-organization.html): Technical Track PC member. 
 - [Principles and Practice of Parallel Programming (PPoPP) 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-organizing-committee): Submissions Chair and PC member.
 - [Compiler Construction (CC) 2023](https://conf.researchr.org/committee/CC-2023/CC-2023-organizing-committee): Chair of the Artifact Evaluation Committee.
