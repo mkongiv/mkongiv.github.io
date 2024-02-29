@@ -37,6 +37,7 @@ In *International Code Generation and Optimization (CGO'24)*.
 [*Automatic Generation of Distributed-Memory Mappings for Tensor Computations*](https://dl.acm.org/doi/10.1145/3581784.3607096)
 Martin Kong, Raneem Abu Yosef, Atanas Rountev and P. Sadayappan.
 In *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC’23)*.
+[Artifact Available](https://github.com/mkongiv/dimage)
 <details>
   A novel non-linear formulation to partition and map data and computations of tensor programs. Solutions to the formulation, found with the Z3 SMT solver, are used to generate efficient MPI code capable of making external library calls for local computations.
 </details>
