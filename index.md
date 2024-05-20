@@ -1,7 +1,7 @@
 
 ## Brief Bio
 
-In June 2022 I joined the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/) as an Assistant Professor.
+I am an Assistant Professor in the [Department of Computer Science and Engineering (CSE) at THE Ohio State University](https://cse.osu.edu/).
 
 
 
