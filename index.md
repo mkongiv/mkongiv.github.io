@@ -16,4 +16,4 @@ My research falls within the broad area of systems intersected with the areas of
 - Domain-specific computing
 - Automatic parallelization for data-flow and task-parallel run-times
 
-NOTE: This site is likely not up-to-date. Please see [https://u.osu.edu/moreno-244/](my OSU page) for more information.
+NOTE: This site is likely not up-to-date. Please see [my OSU page](https://u.osu.edu/moreno-244/) for more information.
